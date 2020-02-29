@@ -23,3 +23,4 @@ This is a repository that contains resources which is useful for applying deep l
 # News
 - [Dance to music](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/)
 - [Deep learning for videos action recognition review](http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
+- [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
