@@ -44,3 +44,6 @@ This is a repository that contains resources which is useful for applying deep l
 - [This AI can dance | Everybody Dance Now Explained !](https://www.youtube.com/watch?v=vya2wOk26GA)
 -  [Dance Like, an app that helps users learn how to dance using machine learning](https://www.youtube.com/watch?v=T99oyqImToM)
 
+## Project
+- [Experiments with Google - https://experiments.withgoogle.com/living-archive-wayne-mcgregor](https://experiments.withgoogle.com/living-archive-wayne-mcgregor)
+
