@@ -8,7 +8,7 @@ This is a repository that contains resources which is useful for applying deep l
 - [Dancing to Music](https://arxiv.org/abs/1911.02001)
 
 ## Action Recognition
-- [Awesome action recognition (extensive resource)](https://github.com/jinwchoi/awesome-action-recognition) - **Extensive resource for action recognition**
+- [Awesome action recognition (extensive resource)] - Extensive resource for action recognition tasks.
 - [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
 
 # Code Bases
