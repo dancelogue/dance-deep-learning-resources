@@ -15,7 +15,7 @@ This is a repository that contains resources which is useful for applying deep l
 # Code Bases
 ## Action Recognition
 - [mmskeleton](https://github.com/open-mmlab/mmskeleton) (https://github.com/open-mmlab/mmskeleton)
--
+
 
 ## Pose estimation
 - [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) https://github.com/CMU-Perceptual-Computing-Lab/openpose
