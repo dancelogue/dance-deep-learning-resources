@@ -20,7 +20,12 @@ This is a repository that contains resources which is useful for applying deep l
 - [HRNET](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation)
 - [mmskeleton](https://github.com/open-mmlab/mmskeleton)
 
-# News
+# Other
+## Blogs
 - [Dance to music](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/)
 - [Deep learning for videos action recognition review](http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review)
+
+## Video
 - [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
+- [This AI can dance | Everybody Dance Now Explained !](https://www.youtube.com/watch?v=vya2wOk26GA)
+-  [Dance Like, an app that helps users learn how to dance using machine learning](https://www.youtube.com/watch?v=T99oyqImToM)
