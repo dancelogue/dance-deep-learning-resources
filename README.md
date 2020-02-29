@@ -18,8 +18,8 @@ This is a repository that contains resources which is useful for applying deep l
 
 
 ## Pose estimation
-- [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) https://github.com/CMU-Perceptual-Computing-Lab/openpose
-- [HRNET](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation) (https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation)
+- [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [HRNET](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation)
 
 # News
 - [Dance to music](https://news.developer.nvidia.com/nvidia-dance-to-music-neurips/)
