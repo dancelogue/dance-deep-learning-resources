@@ -37,7 +37,9 @@ This is a repository that contains resources which is useful for applying deep l
 - [Rasabodha: Understanding Indian classical dance by recognizing emotions using deep learning](https://www.sciencedirect.com/science/article/abs/pii/S003132031830030X)
 - [A deep learning pipeline for Indian dance style classification](https://ui.adsabs.harvard.edu/abs/2018SPIE10696E..11D/abstract)
 -[Nvidia unveils deep learning-based AI model that automatically choreographs music](https://www.neowin.net/news/nvidia-unveils-deep-learning-based-ai-model-that-automatically-choreographs-music/)
-=[Google's latest experiment teaches AI to dance like a human](https://www.wired.co.uk/article/google-ai-wayne-mcgregor-dance-choreography)
+- [Google's latest experiment teaches AI to dance like a human](https://www.wired.co.uk/article/google-ai-wayne-mcgregor-dance-choreography)
+- [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596)
+- [Move Mirror: An AI Experiment with Pose Estimation in the Browser using TensorFlow.js](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23)
 
 ## Video
 - [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
@@ -46,4 +48,11 @@ This is a repository that contains resources which is useful for applying deep l
 
 ## Projects
 - [Experiments with Google - https://experiments.withgoogle.com/living-archive-wayne-mcgregor](https://experiments.withgoogle.com/living-archive-wayne-mcgregor)
+- [Experiments with Google -  Body, Movement, Language: AI Sketches With Bill T. Jones](https://experiments.withgoogle.com/billtjonesai)
+- [Experiments with Google - Body Synth](https://experiments.withgoogle.com/body-synth)
+- [Experiments with Google - Draw and Dance](https://experiments.withgoogle.com/draw-and-dance)
+- [Experiments with Google - Move Mirror](https://experiments.withgoogle.com/move-mirror)
+
+## Apps
+- [Sway](https://getsway.app/)
 
