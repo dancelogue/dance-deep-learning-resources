@@ -29,3 +29,4 @@ This is a repository that contains resources which is useful for applying deep l
 - [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
 - [This AI can dance | Everybody Dance Now Explained !](https://www.youtube.com/watch?v=vya2wOk26GA)
 -  [Dance Like, an app that helps users learn how to dance using machine learning](https://www.youtube.com/watch?v=T99oyqImToM)
+- [AI is tearing up the dancing floor again](https://syncedreview.com/2019/11/22/ai-is-tearing-up-the-dancing-floor-again/)
