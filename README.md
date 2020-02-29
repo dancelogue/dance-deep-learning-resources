@@ -7,9 +7,9 @@ This is a repository that contains resources which is useful for applying deep l
 - [Let's Dance: Learning From Online Dance Videos](https://arxiv.org/abs/1801.07388) (https://arxiv.org/abs/1801.07388)
 
 ## Action Recognition
-- [Awesome action recognition (extensive resource)](https://github.com/jinwchoi/awesome-action-recognition) (https://github.com/jinwchoi/awesome-action-recognition)
-- [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455) (https://arxiv.org/abs/1801.07455)
-- [mmaction](https://github.com/open-mmlab/mmaction) (https://github.com/open-mmlab/mmaction)
+- [Awesome action recognition (extensive resource)](https://github.com/jinwchoi/awesome-action-recognition) - *Extensive resource for action recognition*
+- [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
+- [mmaction](https://github.com/open-mmlab/mmaction)
 
 # Code Bases
 ## Action Recognition
