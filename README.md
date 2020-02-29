@@ -36,7 +36,7 @@ This is a repository that contains resources which is useful for applying deep l
 -  [Generative Choreography using Deep Learning](https://www.researchgate.net/publication/303448892_Generative_Choreography_using_Deep_Learning)
 - [Rasabodha: Understanding Indian classical dance by recognizing emotions using deep learning](https://www.sciencedirect.com/science/article/abs/pii/S003132031830030X)
 - [A deep learning pipeline for Indian dance style classification](https://ui.adsabs.harvard.edu/abs/2018SPIE10696E..11D/abstract)
-
+-[Nvidia unveils deep learning-based AI model that automatically choreographs music](https://www.neowin.net/news/nvidia-unveils-deep-learning-based-ai-model-that-automatically-choreographs-music/)
 
 ## Video
 - [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
