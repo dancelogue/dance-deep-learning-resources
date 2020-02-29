@@ -5,6 +5,7 @@ This is a repository that contains resources which is useful for applying deep l
 ## Dance
 - [Everybody Dance Now](https://arxiv.org/abs/1808.07371) (https://arxiv.org/abs/1808.07371)
 - [Let's Dance: Learning From Online Dance Videos](https://arxiv.org/abs/1801.07388) (https://arxiv.org/abs/1801.07388)
+- [Dancing to Music](https://arxiv.org/abs/1911.02001)
 
 ## Action Recognition
 - [Awesome action recognition (extensive resource)](https://github.com/jinwchoi/awesome-action-recognition) - *Extensive resource for action recognition*
