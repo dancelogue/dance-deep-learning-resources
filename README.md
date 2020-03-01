@@ -13,9 +13,15 @@ This is a repository that contains resources which is useful for applying deep l
 - [Awesome action recognition (extensive resource)] - Extensive resource for action recognition tasks.
 - [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455)
 
+## Other
+- [Few-shot Video-to-Video Synthesis](https://arxiv.org/abs/1910.12713)
+
 # Code Bases
 ## Action Recognition
 - [mmaction](https://github.com/open-mmlab/mmaction)
+
+## Other
+- [Few-shot vid2vid](https://github.com/NVlabs/few-shot-vid2vid)
 
 ## Pose estimation
 - [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
@@ -40,6 +46,10 @@ This is a repository that contains resources which is useful for applying deep l
 - [Google's latest experiment teaches AI to dance like a human](https://www.wired.co.uk/article/google-ai-wayne-mcgregor-dance-choreography)
 - [Mixing movement and machine](https://medium.com/artists-and-machine-intelligence/mixing-movement-and-machine-848095ea5596)
 - [Move Mirror: An AI Experiment with Pose Estimation in the Browser using TensorFlow.js](https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23)
+- [The way you dance is unique, and computers can tell it's you](https://www.sciencedaily.com/releases/2020/01/200117104740.htm)
+-[ALGORITHM IS A DANCER: HOW ARTIFICIAL INTELLIGENCE IS RESHAPING ELECTRONIC MUSIC](https://djmag.com/content/algorithm-dancer-how-artificial-intelligence-reshaping-electronic-music)
+- [Machine learning you can dance to](http://news.mit.edu/2019/machine-learning-you-can-dance-to-samply-0918)
+- [AI can recognise each person's dancing "fingerprint": Study](https://www.theweek.in/news/sci-tech/2020/01/20/AI-can-recognise-each-persons-dancing-fingerprint-Study.html)
 
 ## Video
 - [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
