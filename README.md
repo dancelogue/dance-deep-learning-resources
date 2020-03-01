@@ -50,6 +50,11 @@ This is a repository that contains resources which is useful for applying deep l
 -[ALGORITHM IS A DANCER: HOW ARTIFICIAL INTELLIGENCE IS RESHAPING ELECTRONIC MUSIC](https://djmag.com/content/algorithm-dancer-how-artificial-intelligence-reshaping-electronic-music)
 - [Machine learning you can dance to](http://news.mit.edu/2019/machine-learning-you-can-dance-to-samply-0918)
 - [AI can recognise each person's dancing "fingerprint": Study](https://www.theweek.in/news/sci-tech/2020/01/20/AI-can-recognise-each-persons-dancing-fingerprint-Study.html)
+- [Teaching the stars to dance](https://www.microsoft.com/inculture/musicxtech/nao-ai-interactive-music-video/)
+- [Machine-Learning Algorithm Watches Dance Dance Revolution, Then Creates Dances of Its Own](https://www.technologyreview.com/s/604000/machine-learning-algorithm-watches-dance-dance-revolution-then-creates-dances-of-its-own/)
+- [Yamaha Artificial Intelligence (AI) Transforms a Dancer into a Pianist](https://www.yamaha.com/en/news_release/2018/18013101/)
+- [Computer Algorithm Can Identify Unique Dancing Characteristics](https://www.unite.ai/computer-algorithm-can-identify-unique-dancing-characteristics/)
+- [CAN YOU TEACH AI TO DANCE?](https://yr.media/tech/can-you-teach-ai-to-dance/)
 
 ## Video
 - [Dance x Machine Learning: First Steps](https://medium.com/@kcimc/discrete-figures-7d9e9c275c47)
